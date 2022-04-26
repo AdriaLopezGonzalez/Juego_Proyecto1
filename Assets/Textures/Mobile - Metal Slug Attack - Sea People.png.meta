@@ -1,7 +1,571 @@
 fileFormatVersion: 2
 guid: 4de9e6993241f684c8eb000155ec71f0
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -2973165217786221106
+    second: Mobile - Metal Slug Attack - Sea People_0
+  - first:
+      213: -4322493019533658203
+    second: Mobile - Metal Slug Attack - Sea People_1
+  - first:
+      213: -3444630748650077870
+    second: Mobile - Metal Slug Attack - Sea People_2
+  - first:
+      213: 5866438728878657589
+    second: Mobile - Metal Slug Attack - Sea People_3
+  - first:
+      213: 1360086175047568629
+    second: Mobile - Metal Slug Attack - Sea People_4
+  - first:
+      213: -8762861096164828532
+    second: Mobile - Metal Slug Attack - Sea People_5
+  - first:
+      213: 6991651765072034658
+    second: Mobile - Metal Slug Attack - Sea People_6
+  - first:
+      213: 6681256322876796810
+    second: Mobile - Metal Slug Attack - Sea People_7
+  - first:
+      213: 7016262461059241542
+    second: Mobile - Metal Slug Attack - Sea People_8
+  - first:
+      213: 8991311278642197539
+    second: Mobile - Metal Slug Attack - Sea People_9
+  - first:
+      213: -6687305462674827882
+    second: Mobile - Metal Slug Attack - Sea People_10
+  - first:
+      213: -3360384748535501047
+    second: Mobile - Metal Slug Attack - Sea People_11
+  - first:
+      213: 5360326649956800177
+    second: Mobile - Metal Slug Attack - Sea People_12
+  - first:
+      213: 3850148120539852901
+    second: Mobile - Metal Slug Attack - Sea People_13
+  - first:
+      213: 8069354180485523116
+    second: Mobile - Metal Slug Attack - Sea People_14
+  - first:
+      213: -2310255307189870444
+    second: Mobile - Metal Slug Attack - Sea People_15
+  - first:
+      213: -299589912307245233
+    second: Mobile - Metal Slug Attack - Sea People_16
+  - first:
+      213: 3680167909803341069
+    second: Mobile - Metal Slug Attack - Sea People_17
+  - first:
+      213: 8871179504053692943
+    second: Mobile - Metal Slug Attack - Sea People_18
+  - first:
+      213: 4607969203199518958
+    second: Mobile - Metal Slug Attack - Sea People_19
+  - first:
+      213: 6096716576577149120
+    second: Mobile - Metal Slug Attack - Sea People_20
+  - first:
+      213: 5405875118267998440
+    second: Mobile - Metal Slug Attack - Sea People_21
+  - first:
+      213: -2278209939957050248
+    second: Mobile - Metal Slug Attack - Sea People_22
+  - first:
+      213: -3696359190033898546
+    second: Mobile - Metal Slug Attack - Sea People_23
+  - first:
+      213: -4049685766500433579
+    second: Mobile - Metal Slug Attack - Sea People_24
+  - first:
+      213: 246340037285736052
+    second: Mobile - Metal Slug Attack - Sea People_25
+  - first:
+      213: 1564697310702424408
+    second: Mobile - Metal Slug Attack - Sea People_26
+  - first:
+      213: -277689404844865420
+    second: Mobile - Metal Slug Attack - Sea People_27
+  - first:
+      213: -5140096097369145145
+    second: Mobile - Metal Slug Attack - Sea People_28
+  - first:
+      213: 5203502747937900548
+    second: Mobile - Metal Slug Attack - Sea People_29
+  - first:
+      213: -6076889233971943424
+    second: Mobile - Metal Slug Attack - Sea People_30
+  - first:
+      213: -2560265677270369308
+    second: Mobile - Metal Slug Attack - Sea People_31
+  - first:
+      213: 287701936366394175
+    second: Mobile - Metal Slug Attack - Sea People_32
+  - first:
+      213: -5989694719526091148
+    second: Mobile - Metal Slug Attack - Sea People_33
+  - first:
+      213: -5718754092171284876
+    second: Mobile - Metal Slug Attack - Sea People_34
+  - first:
+      213: -923842612973657235
+    second: Mobile - Metal Slug Attack - Sea People_35
+  - first:
+      213: 2139051859159956689
+    second: Mobile - Metal Slug Attack - Sea People_36
+  - first:
+      213: 2102641361415214319
+    second: Mobile - Metal Slug Attack - Sea People_37
+  - first:
+      213: 768680332463740810
+    second: Mobile - Metal Slug Attack - Sea People_38
+  - first:
+      213: -4057885201393918152
+    second: Mobile - Metal Slug Attack - Sea People_39
+  - first:
+      213: 3026580560463389691
+    second: Mobile - Metal Slug Attack - Sea People_40
+  - first:
+      213: 2026570193151614229
+    second: Mobile - Metal Slug Attack - Sea People_41
+  - first:
+      213: 4963262218251943115
+    second: Mobile - Metal Slug Attack - Sea People_42
+  - first:
+      213: 9125714274767479794
+    second: Mobile - Metal Slug Attack - Sea People_43
+  - first:
+      213: -485525389544057435
+    second: Mobile - Metal Slug Attack - Sea People_44
+  - first:
+      213: 7178554229408753561
+    second: Mobile - Metal Slug Attack - Sea People_45
+  - first:
+      213: 1605499683080130236
+    second: Mobile - Metal Slug Attack - Sea People_46
+  - first:
+      213: 4268277785305461004
+    second: Mobile - Metal Slug Attack - Sea People_47
+  - first:
+      213: -22905238744371337
+    second: Mobile - Metal Slug Attack - Sea People_48
+  - first:
+      213: 5918594928130533551
+    second: Mobile - Metal Slug Attack - Sea People_49
+  - first:
+      213: 1874274632959929409
+    second: Mobile - Metal Slug Attack - Sea People_50
+  - first:
+      213: -2471125303783921215
+    second: Mobile - Metal Slug Attack - Sea People_51
+  - first:
+      213: 6586698141006131128
+    second: Mobile - Metal Slug Attack - Sea People_52
+  - first:
+      213: 2420896055278241466
+    second: Mobile - Metal Slug Attack - Sea People_53
+  - first:
+      213: 8259128987146058233
+    second: Mobile - Metal Slug Attack - Sea People_54
+  - first:
+      213: 6155458577706707817
+    second: Mobile - Metal Slug Attack - Sea People_55
+  - first:
+      213: 7698682098734588682
+    second: Mobile - Metal Slug Attack - Sea People_56
+  - first:
+      213: 1678719286299762585
+    second: Mobile - Metal Slug Attack - Sea People_57
+  - first:
+      213: 6498627596637491314
+    second: Mobile - Metal Slug Attack - Sea People_58
+  - first:
+      213: 4121642846245932617
+    second: Mobile - Metal Slug Attack - Sea People_59
+  - first:
+      213: -7665829398679166986
+    second: Mobile - Metal Slug Attack - Sea People_60
+  - first:
+      213: -6919938743235752711
+    second: Mobile - Metal Slug Attack - Sea People_61
+  - first:
+      213: -7270977666926225944
+    second: Mobile - Metal Slug Attack - Sea People_62
+  - first:
+      213: -2293616786624468347
+    second: Mobile - Metal Slug Attack - Sea People_63
+  - first:
+      213: -1898218354231031127
+    second: Mobile - Metal Slug Attack - Sea People_64
+  - first:
+      213: 1038466780014655091
+    second: Mobile - Metal Slug Attack - Sea People_65
+  - first:
+      213: 5927328563400705938
+    second: Mobile - Metal Slug Attack - Sea People_66
+  - first:
+      213: -2902930635674365293
+    second: Mobile - Metal Slug Attack - Sea People_67
+  - first:
+      213: 2280758336788421681
+    second: Mobile - Metal Slug Attack - Sea People_68
+  - first:
+      213: 6046690552011981074
+    second: Mobile - Metal Slug Attack - Sea People_69
+  - first:
+      213: 3657101585697596175
+    second: Mobile - Metal Slug Attack - Sea People_70
+  - first:
+      213: -4307781169172829516
+    second: Mobile - Metal Slug Attack - Sea People_71
+  - first:
+      213: -5819637171714858478
+    second: Mobile - Metal Slug Attack - Sea People_72
+  - first:
+      213: 846730409252923044
+    second: Mobile - Metal Slug Attack - Sea People_73
+  - first:
+      213: 5873378739775017040
+    second: Mobile - Metal Slug Attack - Sea People_74
+  - first:
+      213: 8568561580330595534
+    second: Mobile - Metal Slug Attack - Sea People_75
+  - first:
+      213: -4497025052770731167
+    second: Mobile - Metal Slug Attack - Sea People_76
+  - first:
+      213: -7686418775493389679
+    second: Mobile - Metal Slug Attack - Sea People_77
+  - first:
+      213: -2686066782940718631
+    second: Mobile - Metal Slug Attack - Sea People_78
+  - first:
+      213: 889610652892583998
+    second: Mobile - Metal Slug Attack - Sea People_79
+  - first:
+      213: 5279136446866741634
+    second: Mobile - Metal Slug Attack - Sea People_80
+  - first:
+      213: 7163414443030491726
+    second: Mobile - Metal Slug Attack - Sea People_81
+  - first:
+      213: -2499008454964489492
+    second: Mobile - Metal Slug Attack - Sea People_82
+  - first:
+      213: 2531320904315513455
+    second: Mobile - Metal Slug Attack - Sea People_83
+  - first:
+      213: -3013634927718427089
+    second: Mobile - Metal Slug Attack - Sea People_84
+  - first:
+      213: 360259177453781262
+    second: Mobile - Metal Slug Attack - Sea People_85
+  - first:
+      213: -8603198881860528125
+    second: Mobile - Metal Slug Attack - Sea People_86
+  - first:
+      213: -3894178521513733269
+    second: Mobile - Metal Slug Attack - Sea People_87
+  - first:
+      213: -324571150375010675
+    second: Mobile - Metal Slug Attack - Sea People_88
+  - first:
+      213: -3762104006608105054
+    second: Mobile - Metal Slug Attack - Sea People_89
+  - first:
+      213: -7153254329892934051
+    second: Mobile - Metal Slug Attack - Sea People_90
+  - first:
+      213: -3882413520004301133
+    second: Mobile - Metal Slug Attack - Sea People_91
+  - first:
+      213: 6635699990507200429
+    second: Mobile - Metal Slug Attack - Sea People_92
+  - first:
+      213: -3300878187289684194
+    second: Mobile - Metal Slug Attack - Sea People_93
+  - first:
+      213: -4225944035345282791
+    second: Mobile - Metal Slug Attack - Sea People_94
+  - first:
+      213: -8198501001987588220
+    second: Mobile - Metal Slug Attack - Sea People_95
+  - first:
+      213: 8571796784692831067
+    second: Mobile - Metal Slug Attack - Sea People_96
+  - first:
+      213: 1174184319056131450
+    second: Mobile - Metal Slug Attack - Sea People_97
+  - first:
+      213: -2053328432103390466
+    second: Mobile - Metal Slug Attack - Sea People_98
+  - first:
+      213: 4597066149650344408
+    second: Mobile - Metal Slug Attack - Sea People_99
+  - first:
+      213: 978075966678856349
+    second: Mobile - Metal Slug Attack - Sea People_100
+  - first:
+      213: -6494198631650174087
+    second: Mobile - Metal Slug Attack - Sea People_101
+  - first:
+      213: -7210700543323801706
+    second: Mobile - Metal Slug Attack - Sea People_102
+  - first:
+      213: 2011693092917854877
+    second: Mobile - Metal Slug Attack - Sea People_103
+  - first:
+      213: 3889504845881696015
+    second: Mobile - Metal Slug Attack - Sea People_104
+  - first:
+      213: -3811035241448616236
+    second: Mobile - Metal Slug Attack - Sea People_105
+  - first:
+      213: -8020491363147617224
+    second: Mobile - Metal Slug Attack - Sea People_106
+  - first:
+      213: 432040705413976677
+    second: Mobile - Metal Slug Attack - Sea People_107
+  - first:
+      213: 1869453516673186401
+    second: Mobile - Metal Slug Attack - Sea People_108
+  - first:
+      213: 8725504923508018997
+    second: Mobile - Metal Slug Attack - Sea People_109
+  - first:
+      213: -7769662266872959052
+    second: Mobile - Metal Slug Attack - Sea People_110
+  - first:
+      213: 4978905854510815751
+    second: Mobile - Metal Slug Attack - Sea People_111
+  - first:
+      213: 6842651268638407876
+    second: Mobile - Metal Slug Attack - Sea People_112
+  - first:
+      213: -3298113311421474713
+    second: Mobile - Metal Slug Attack - Sea People_113
+  - first:
+      213: -7572952774566124853
+    second: Mobile - Metal Slug Attack - Sea People_114
+  - first:
+      213: -446580913144603859
+    second: Mobile - Metal Slug Attack - Sea People_115
+  - first:
+      213: -6781864735283958365
+    second: Mobile - Metal Slug Attack - Sea People_116
+  - first:
+      213: -3941054734326603132
+    second: Mobile - Metal Slug Attack - Sea People_117
+  - first:
+      213: -5691674466315135027
+    second: Mobile - Metal Slug Attack - Sea People_118
+  - first:
+      213: 2793459161161384649
+    second: Mobile - Metal Slug Attack - Sea People_119
+  - first:
+      213: 5825641367379932473
+    second: Mobile - Metal Slug Attack - Sea People_120
+  - first:
+      213: -3900403778497956967
+    second: Mobile - Metal Slug Attack - Sea People_121
+  - first:
+      213: 8778656018520133529
+    second: Mobile - Metal Slug Attack - Sea People_122
+  - first:
+      213: -4972413246015158396
+    second: Mobile - Metal Slug Attack - Sea People_123
+  - first:
+      213: 7423641515684604368
+    second: Mobile - Metal Slug Attack - Sea People_124
+  - first:
+      213: -8602471546014411791
+    second: Mobile - Metal Slug Attack - Sea People_125
+  - first:
+      213: 7520314177432050080
+    second: Mobile - Metal Slug Attack - Sea People_126
+  - first:
+      213: -4800730811199384928
+    second: Mobile - Metal Slug Attack - Sea People_127
+  - first:
+      213: 2725100559144612306
+    second: Mobile - Metal Slug Attack - Sea People_128
+  - first:
+      213: 6859744695749524686
+    second: Mobile - Metal Slug Attack - Sea People_129
+  - first:
+      213: 6574827952627135369
+    second: Mobile - Metal Slug Attack - Sea People_130
+  - first:
+      213: 25455489954826819
+    second: Mobile - Metal Slug Attack - Sea People_131
+  - first:
+      213: -8512379610986017304
+    second: Mobile - Metal Slug Attack - Sea People_132
+  - first:
+      213: 7826082648420462765
+    second: Mobile - Metal Slug Attack - Sea People_133
+  - first:
+      213: -5910198780639398303
+    second: Mobile - Metal Slug Attack - Sea People_134
+  - first:
+      213: 3057868208462811501
+    second: Mobile - Metal Slug Attack - Sea People_135
+  - first:
+      213: 4774271840249921017
+    second: Mobile - Metal Slug Attack - Sea People_136
+  - first:
+      213: -1800047475885312642
+    second: Mobile - Metal Slug Attack - Sea People_137
+  - first:
+      213: -6436359136655805015
+    second: Mobile - Metal Slug Attack - Sea People_138
+  - first:
+      213: 3914222209082678030
+    second: Mobile - Metal Slug Attack - Sea People_139
+  - first:
+      213: -3044314783521032399
+    second: Mobile - Metal Slug Attack - Sea People_140
+  - first:
+      213: -5801331844698829095
+    second: Mobile - Metal Slug Attack - Sea People_141
+  - first:
+      213: -8278165661098221834
+    second: Mobile - Metal Slug Attack - Sea People_142
+  - first:
+      213: 1690467995580269470
+    second: Mobile - Metal Slug Attack - Sea People_143
+  - first:
+      213: 5979973774601916864
+    second: Mobile - Metal Slug Attack - Sea People_144
+  - first:
+      213: -1419585740894807596
+    second: Mobile - Metal Slug Attack - Sea People_145
+  - first:
+      213: -347972321828265776
+    second: Mobile - Metal Slug Attack - Sea People_146
+  - first:
+      213: -6195760748411608938
+    second: Mobile - Metal Slug Attack - Sea People_147
+  - first:
+      213: -2698629898952060392
+    second: Mobile - Metal Slug Attack - Sea People_148
+  - first:
+      213: 671958366270899902
+    second: Mobile - Metal Slug Attack - Sea People_149
+  - first:
+      213: 8024864745233595002
+    second: Mobile - Metal Slug Attack - Sea People_150
+  - first:
+      213: 374887251986184859
+    second: Mobile - Metal Slug Attack - Sea People_151
+  - first:
+      213: 1665562154504373765
+    second: Mobile - Metal Slug Attack - Sea People_152
+  - first:
+      213: 1191126960469338681
+    second: Mobile - Metal Slug Attack - Sea People_153
+  - first:
+      213: -5607426881767810216
+    second: Mobile - Metal Slug Attack - Sea People_154
+  - first:
+      213: 6565090636061206772
+    second: Mobile - Metal Slug Attack - Sea People_155
+  - first:
+      213: 3213031769598185792
+    second: Mobile - Metal Slug Attack - Sea People_156
+  - first:
+      213: -5829528681805181280
+    second: Mobile - Metal Slug Attack - Sea People_157
+  - first:
+      213: -3448269510724017810
+    second: Mobile - Metal Slug Attack - Sea People_158
+  - first:
+      213: -4018473729388247679
+    second: Mobile - Metal Slug Attack - Sea People_159
+  - first:
+      213: 2026421647596742982
+    second: Mobile - Metal Slug Attack - Sea People_160
+  - first:
+      213: 2262407275205303314
+    second: Mobile - Metal Slug Attack - Sea People_161
+  - first:
+      213: 8329697480979177337
+    second: Mobile - Metal Slug Attack - Sea People_162
+  - first:
+      213: -5089409253876141478
+    second: Mobile - Metal Slug Attack - Sea People_163
+  - first:
+      213: 3987847106683277797
+    second: Mobile - Metal Slug Attack - Sea People_164
+  - first:
+      213: 104209766258276733
+    second: Mobile - Metal Slug Attack - Sea People_165
+  - first:
+      213: 4886119339017319020
+    second: Mobile - Metal Slug Attack - Sea People_166
+  - first:
+      213: -7228530970741163536
+    second: Mobile - Metal Slug Attack - Sea People_167
+  - first:
+      213: 6182936110969514051
+    second: Mobile - Metal Slug Attack - Sea People_168
+  - first:
+      213: -2042421723035774791
+    second: Mobile - Metal Slug Attack - Sea People_169
+  - first:
+      213: -8674401790106601125
+    second: Mobile - Metal Slug Attack - Sea People_170
+  - first:
+      213: -1215474678797560903
+    second: Mobile - Metal Slug Attack - Sea People_171
+  - first:
+      213: -5920636052101809801
+    second: Mobile - Metal Slug Attack - Sea People_172
+  - first:
+      213: -965498593463225553
+    second: Mobile - Metal Slug Attack - Sea People_173
+  - first:
+      213: 8311837335567471849
+    second: Mobile - Metal Slug Attack - Sea People_174
+  - first:
+      213: -7453251293932212240
+    second: Mobile - Metal Slug Attack - Sea People_175
+  - first:
+      213: 470194665148995006
+    second: Mobile - Metal Slug Attack - Sea People_176
+  - first:
+      213: -8574418199049425656
+    second: Mobile - Metal Slug Attack - Sea People_177
+  - first:
+      213: 896386959740261308
+    second: Mobile - Metal Slug Attack - Sea People_178
+  - first:
+      213: -2315490122780520939
+    second: Mobile - Metal Slug Attack - Sea People_179
+  - first:
+      213: 6952301516716192759
+    second: Mobile - Metal Slug Attack - Sea People_180
+  - first:
+      213: 3870302495652048879
+    second: Mobile - Metal Slug Attack - Sea People_181
+  - first:
+      213: -4996765377596759367
+    second: Mobile - Metal Slug Attack - Sea People_182
+  - first:
+      213: -6228702385323652168
+    second: Mobile - Metal Slug Attack - Sea People_183
+  - first:
+      213: -6856516008967060285
+    second: Mobile - Metal Slug Attack - Sea People_184
+  - first:
+      213: -653869570922517186
+    second: Mobile - Metal Slug Attack - Sea People_185
+  - first:
+      213: 3722874947265010738
+    second: Mobile - Metal Slug Attack - Sea People_186
+  - first:
+      213: 2917457913253018221
+    second: Mobile - Metal Slug Attack - Sea People_187
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -31,7 +595,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -40,12 +604,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 50
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -71,9 +635,3969 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1293
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd2e47acf13db6d0800000000000000
+      internalID: -2973165217786221106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1293
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a73792108b6304c0800000000000000
+      internalID: -4322493019533658203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1293
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2510354a5963230d0800000000000000
+      internalID: -3444630748650077870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1293
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530186331f6c96150800000000000000
+      internalID: 5866438728878657589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1293
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc41af8b2fffd210800000000000000
+      internalID: 1360086175047568629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1293
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a510bb240146680800000000000000
+      internalID: -8762861096164828532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1236
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bf95aac36570160800000000000000
+      internalID: 6991651765072034658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1236
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f67621a3798bc50800000000000000
+      internalID: 6681256322876796810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1236
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646185ad885ce5160800000000000000
+      internalID: 7016262461059241542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1236
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3247e6c48fd87cc70800000000000000
+      internalID: 8991311278642197539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_10
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1239
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695dcb0dc1be133a0800000000000000
+      internalID: -6687305462674827882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1236
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fa6e210e38d51d0800000000000000
+      internalID: -3360384748535501047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_12
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1236
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b61cba10b4b36a40800000000000000
+      internalID: 5360326649956800177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1236
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5607a6111597e6530800000000000000
+      internalID: 3850148120539852901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1236
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca627a6bfda1cff60800000000000000
+      internalID: 8069354180485523116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_15
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1236
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490ac72d90350ffd0800000000000000
+      internalID: -2310255307189870444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_16
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1239
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fd2a2ef84a7dbf0800000000000000
+      internalID: -299589912307245233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_17
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1236
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05be913735921330800000000000000
+      internalID: 3680167909803341069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_18
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1236
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aa8d5e1c2cc1b70800000000000000
+      internalID: 8871179504053692943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_19
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1236
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8a5a4839bc2ff30800000000000000
+      internalID: 4607969203199518958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_20
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1236
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8dd13bc63eb9450800000000000000
+      internalID: 6096716576577149120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_21
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1236
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0ac7c47c6850b40800000000000000
+      internalID: 5405875118267998440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1212
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874981d412c2260e0800000000000000
+      internalID: -2278209939957050248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1212
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec367cb96e4e3bcc0800000000000000
+      internalID: -3696359190033898546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1212
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55149c36040acc7c0800000000000000
+      internalID: -4049685766500433579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1212
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e6f5075fc2b6300800000000000000
+      internalID: 246340037285736052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_26
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1212
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8515d69f9ebe6b510800000000000000
+      internalID: 1564697310702424408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_27
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1212
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478055225f2752cf0800000000000000
+      internalID: -277689404844865420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1212
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0c0f435d5baa8b0800000000000000
+      internalID: -5140096097369145145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1144
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4088b9e0e2e863840800000000000000
+      internalID: 5203502747937900548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_30
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1144
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008e4bd307d8aaba0800000000000000
+      internalID: -6076889233971943424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_31
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1144
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebbcaf6eeb187cd0800000000000000
+      internalID: -2560265677270369308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1144
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b9f46036f1ef300800000000000000
+      internalID: 287701936366394175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_33
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1144
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4764d99236450eca0800000000000000
+      internalID: -5989694719526091148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1144
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ea152d377e2a0b0800000000000000
+      internalID: -5718754092171284876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_35
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1144
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d632659c90add23f0800000000000000
+      internalID: -923842612973657235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_36
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1144
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc3e5d25507fad10800000000000000
+      internalID: 2139051859159956689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_37
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1144
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4923d8d251e2d10800000000000000
+      internalID: 2102641361415214319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_38
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1142
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87945290b6eaaa00800000000000000
+      internalID: 768680332463740810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1071
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fd99fa8ee7fa7c0800000000000000
+      internalID: -4057885201393918152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_40
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1073
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3e586fbf2900a20800000000000000
+      internalID: 3026580560463389691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_41
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1076
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d523b7ad2df1c10800000000000000
+      internalID: 2026570193151614229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_42
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1076
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc3606e0bc01e440800000000000000
+      internalID: 4963262218251943115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_43
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 998
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f32a3568cc05ae70800000000000000
+      internalID: 9125714274767479794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_44
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1058
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a51bca0b311349f0800000000000000
+      internalID: -485525389544057435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 998
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99769ccb9095f9360800000000000000
+      internalID: 7178554229408753561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_46
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 998
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe4ef89471e74610800000000000000
+      internalID: 1605499683080130236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_47
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 998
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01b2db0808fb3b30800000000000000
+      internalID: 4268277785305461004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_48
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 998
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f65258ecf9eaff0800000000000000
+      internalID: -22905238744371337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_49
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 998
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa826a4aab2132250800000000000000
+      internalID: 5918594928130533551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_50
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 998
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c2a1d29d2c20a10800000000000000
+      internalID: 1874274632959929409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_51
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 998
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9ea78f0acc4bdd0800000000000000
+      internalID: -2471125303783921215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_52
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 998
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf6569bf07a86b50800000000000000
+      internalID: 6586698141006131128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_53
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 998
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab60105c220c89120800000000000000
+      internalID: 2420896055278241466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_54
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 998
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9f8f81e025e9270800000000000000
+      internalID: 8259128987146058233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_55
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 998
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96be6d1a6f49c6550800000000000000
+      internalID: 6155458577706707817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 935
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03ebb5549637da60800000000000000
+      internalID: 7698682098734588682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 935
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f9e71fb420c4710800000000000000
+      internalID: 1678719286299762585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_58
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 935
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270d0213e53cf2a50800000000000000
+      internalID: 6498627596637491314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_59
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 935
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ec48dc454033930800000000000000
+      internalID: 4121642846245932617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_60
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 935
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff5bf6f6c08d9590800000000000000
+      internalID: -7665829398679166986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_61
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 935
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc48fd506077ff90800000000000000
+      internalID: -6919938743235752711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_62
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 935
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e55011d55c481b90800000000000000
+      internalID: -7270977666926225944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_63
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 935
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a20664faf6b20e0800000000000000
+      internalID: -2293616786624468347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_64
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 935
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aacee9c67c28a5e0800000000000000
+      internalID: -1898218354231031127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_65
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 956
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37631ddc800696e00800000000000000
+      internalID: 1038466780014655091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 911
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29786809ce9124250800000000000000
+      internalID: 5927328563400705938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_67
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 911
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392d70d97f7b6b7d0800000000000000
+      internalID: -2902930635674365293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_68
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 911
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cd8c29f91e6af10800000000000000
+      internalID: 2280758336788421681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_69
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 911
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211826335092ae350800000000000000
+      internalID: 6046690552011981074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_70
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 911
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03e50b1482a0c230800000000000000
+      internalID: 3657101585697596175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_71
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 911
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba2659a9dfa734c0800000000000000
+      internalID: -4307781169172829516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 855
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212e64a73de7c3fa0800000000000000
+      internalID: -5819637171714858478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_73
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 860
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6aa0032d030cb00800000000000000
+      internalID: 846730409252923044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_74
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 858
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0501f9768de628150800000000000000
+      internalID: 5873378739775017040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_75
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 855
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec43aafeb55a9e670800000000000000
+      internalID: 8568561580330595534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_76
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 851
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b719f6a8b5791c0800000000000000
+      internalID: -4497025052770731167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_77
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 847
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192d2db19da545590800000000000000
+      internalID: -7686418775493389679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_78
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 845
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d997d70e7c29bad0800000000000000
+      internalID: -2686066782940718631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_79
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 844
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38d01aec28885c00800000000000000
+      internalID: 889610652892583998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_80
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 844
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2895f4cd0a2434940800000000000000
+      internalID: 5279136446866741634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_81
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 844
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e423cb78b7f896360800000000000000
+      internalID: 7163414443030491726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_82
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 844
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2d42fec0db15dd0800000000000000
+      internalID: -2499008454964489492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_83
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 844
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a2f3273fe012320800000000000000
+      internalID: 2531320904315513455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 814
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2612aa000b6d26d0800000000000000
+      internalID: -3013634927718427089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_85
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 814
+        width: 51
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01053b20d5eff400800000000000000
+      internalID: 360259177453781262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 754
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3085aaad23c4b9880800000000000000
+      internalID: -8603198881860528125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_87
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 756
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63d735544915f9c0800000000000000
+      internalID: -3894178521513733269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_88
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 757
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ebe852244ee7bf0800000000000000
+      internalID: -324571150375010675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_89
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 757
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1dc06a6525acbc0800000000000000
+      internalID: -3762104006608105054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_90
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 756
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ee4b626198abc90800000000000000
+      internalID: -7153254329892934051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_91
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 797
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be38f43975ee1ac0800000000000000
+      internalID: -3882413520004301133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_92
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 789
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf9e32ebfdb61c50800000000000000
+      internalID: 6635699990507200429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_93
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 760
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1753c707cce032d0800000000000000
+      internalID: -3300878187289684194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_94
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 760
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91940943a4e6a55c0800000000000000
+      internalID: -4225944035345282791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_95
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 756
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f78d5b6c2193e80800000000000000
+      internalID: -8198501001987588220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_96
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 790
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53a376a2c325f670800000000000000
+      internalID: 8571796784692831067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_97
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 788
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75bc26ca6a8b4010800000000000000
+      internalID: 1174184319056131450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_98
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 756
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef284458bac1183e0800000000000000
+      internalID: -2053328432103390466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_99
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 760
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9a1ea8e4f0ccf30800000000000000
+      internalID: 4597066149650344408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_100
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 756
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d927d3dd8e2d29d00800000000000000
+      internalID: 978075966678856349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_101
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 756
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bd9a390c8ffd5a0800000000000000
+      internalID: -6494198631650174087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_102
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 756
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697f77d4f027eeb90800000000000000
+      internalID: -7210700543323801706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_103
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 761
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92c978a538faeb10800000000000000
+      internalID: 2011693092917854877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f50f2cc0c4af530800000000000000
+      internalID: 3889504845881696015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_105
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 680
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dec5feb3ab7c1bc0800000000000000
+      internalID: -3811035241448616236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_106
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 680
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c6f7f799d71b090800000000000000
+      internalID: -8020491363147617224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_107
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 736
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56295b68bbaeef500800000000000000
+      internalID: 432040705413976677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_108
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 739
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16af8619112a1f910800000000000000
+      internalID: 1869453516673186401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_109
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 680
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f0e9b8f78371970800000000000000
+      internalID: 8725504923508018997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_110
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 680
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfe74e655d9c2490800000000000000
+      internalID: -7769662266872959052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_111
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 680
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ada3cce70a81540800000000000000
+      internalID: 4978905854510815751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_112
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 659
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc711d231bf5fe50800000000000000
+      internalID: 6842651268638407876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_113
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 629
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7685cbbda6fba32d0800000000000000
+      internalID: -3298113311421474713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_114
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 680
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc26d23239777e690800000000000000
+      internalID: -7572952774566124853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_115
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 736
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bdb8c860d6dc9f0800000000000000
+      internalID: -446580913144603859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_116
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 739
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ada6a284f9f1e1a0800000000000000
+      internalID: -6781864735283958365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_117
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 680
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4826718899f8e49c0800000000000000
+      internalID: -3941054734326603132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_118
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 680
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7102a8a3c1301b0800000000000000
+      internalID: -5691674466315135027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 606
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2c5938e4c54c620800000000000000
+      internalID: 2793459161161384649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_120
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 606
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935708345f5d8d050800000000000000
+      internalID: 5825641367379932473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_121
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 606
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993b90ebd6bfed9c0800000000000000
+      internalID: -3900403778497956967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_122
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 606
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fcc35332d04d970800000000000000
+      internalID: 8778656018520133529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_123
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 606
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487c1da6f707efab0800000000000000
+      internalID: -4972413246015158396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_124
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 652
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9293a50a2160760800000000000000
+      internalID: 7423641515684604368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_125
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 627
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3d76de4b1ed9880800000000000000
+      internalID: -8602471546014411791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_126
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 606
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9db2966e58d5860800000000000000
+      internalID: 7520314177432050080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_127
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 637
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2103833c0606db0800000000000000
+      internalID: -4800730811199384928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_128
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 638
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d17805358081d520800000000000000
+      internalID: 2725100559144612306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_129
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 633
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc3500d475b23f50800000000000000
+      internalID: 6859744695749524686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_130
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 633
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98336af103b7e3b50800000000000000
+      internalID: 6574827952627135369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_131
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 606
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a475c12af6a5000800000000000000
+      internalID: 25455489954826819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_132
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 606
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed86e528d3fdd980800000000000000
+      internalID: -8512379610986017304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_133
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 606
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da033f154b4db9c60800000000000000
+      internalID: 7826082648420462765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_134
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 606
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166ba08c581cafda0800000000000000
+      internalID: -5910198780639398303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 582
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61d26f2feabf6a20800000000000000
+      internalID: 3057868208462811501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_136
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 582
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd3f3b81fe914240800000000000000
+      internalID: 4774271840249921017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_137
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 520
+        width: 236
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7574059b52f407e0800000000000000
+      internalID: -1800047475885312642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a57acc67757da6a0800000000000000
+      internalID: -6436359136655805015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_139
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 525
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b51585c5c125630800000000000000
+      internalID: 3914222209082678030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_140
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 525
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13732c775db60c5d0800000000000000
+      internalID: -3044314783521032399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_141
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 525
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de809c8c678d7fa0800000000000000
+      internalID: -5801331844698829095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_142
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 525
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe576ad03c0e1d80800000000000000
+      internalID: -8278165661098221834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_143
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 525
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e938abc7fafb57710800000000000000
+      internalID: 1690467995580269470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c19c49f6722df250800000000000000
+      internalID: 5979973774601916864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_145
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 502
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d951c93a4e9c4ce0800000000000000
+      internalID: -1419585740894807596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_146
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 442
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d022c55401cb2bf0800000000000000
+      internalID: -347972321828265776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_147
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 435
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6902e950d6c340aa0800000000000000
+      internalID: -6195760748411608938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_148
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 477
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812d6b4a76a8c8ad0800000000000000
+      internalID: -2698629898952060392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_149
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 477
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6cd6de296435900800000000000000
+      internalID: 671958366270899902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_150
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 478
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a343ed7fb0e5f60800000000000000
+      internalID: 8024864745233595002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_151
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 481
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a757d28fdd33500800000000000000
+      internalID: 374887251986184859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_152
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 484
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506419a74f34d1710800000000000000
+      internalID: 1665562154504373765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_153
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 483
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a6a21e8abb78010800000000000000
+      internalID: 1191126960469338681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_154
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 481
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bd040e5fa6e22b0800000000000000
+      internalID: -5607426881767810216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_155
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 479
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8eba07623eb1b50800000000000000
+      internalID: 6565090636061206772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_156
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 479
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041d1fefe5bf69c20800000000000000
+      internalID: 3213031769598185792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_157
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 478
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae0d01dc8a591fa0800000000000000
+      internalID: -5829528681805181280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_158
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 458
+        width: 59
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e612c7356294520d0800000000000000
+      internalID: -3448269510724017810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_159
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 447
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18503941f638b38c0800000000000000
+      internalID: -4018473729388247679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_160
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 437
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6496a2680cb4f1c10800000000000000
+      internalID: 2026421647596742982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_161
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 438
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c1fd71e6fa56f10800000000000000
+      internalID: 2262407275205303314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_162
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 441
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fda30f9b7099370800000000000000
+      internalID: 8329697480979177337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_163
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 444
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52702a9f39ce59b0800000000000000
+      internalID: -5089409253876141478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_164
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 442
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e11d64a0dda75730800000000000000
+      internalID: 3987847106683277797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_165
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 439
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7973f3fa3a327100800000000000000
+      internalID: 104209766258276733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_166
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 160
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c623b4ca6abfec340800000000000000
+      internalID: 4886119339017319020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_167
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 398
+        width: 161
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9301961691fab90800000000000000
+      internalID: -7228530970741163536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_168
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 399
+        width: 161
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348e54362a33ec550800000000000000
+      internalID: 6182936110969514051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 164
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b059ec934cd7a3e0800000000000000
+      internalID: -2042421723035774791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_170
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 358
+        width: 161
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59fea5e7855e9780800000000000000
+      internalID: -8674401790106601125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_171
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 359
+        width: 161
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b31ac03834c12fe0800000000000000
+      internalID: -1215474678797560903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 162
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779b91621eca5dda0800000000000000
+      internalID: -5920636052101809801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_173
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 325
+        width: 160
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f233c79052cd992f0800000000000000
+      internalID: -965498593463225553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_174
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 326
+        width: 160
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e41459c404995370800000000000000
+      internalID: 8311837335567471849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 157
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff237bef6bb09890800000000000000
+      internalID: -7453251293932212240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_176
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 289
+        width: 159
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb55d778e87768600800000000000000
+      internalID: 470194665148995006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_177
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 292
+        width: 160
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80da302c31c810980800000000000000
+      internalID: -8574418199049425656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 32
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb35c9cc03b907c00800000000000000
+      internalID: 896386959740261308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_179
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 118
+        width: 32
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ecdb6500abddfd0800000000000000
+      internalID: -2315490122780520939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_180
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 54
+        width: 32
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3374305698b7060800000000000000
+      internalID: 6952301516716192759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_181
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 54
+        width: 32
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefe5a23d9316b530800000000000000
+      internalID: 3870302495652048879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_182
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 49
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2ef52fc5ce7aab0800000000000000
+      internalID: -4996765377596759367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_183
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 48
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbc72f7e243f89a0800000000000000
+      internalID: -6228702385323652168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_184
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 3
+        width: 52
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c44db86403c8d0a0800000000000000
+      internalID: -6856516008967060285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_185
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3
+        width: 52
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3de9bfe61dfce6f0800000000000000
+      internalID: -653869570922517186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_186
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 3
+        width: 56
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c9ee63a0f4aa330800000000000000
+      internalID: 3722874947265010738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Sea People_187
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 3
+        width: 59
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a3996c384ec7820800000000000000
+      internalID: 2917457913253018221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
