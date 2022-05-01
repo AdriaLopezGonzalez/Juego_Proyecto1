@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - spikes
+  - floor
+  - walls
+  - player
+  - key
+  - door
   layers:
   - Default
   - TransparentFX
@@ -43,6 +49,12 @@ TagManager:
     locked: 0
   - name: Floor
     uniqueID: 148479041
+    locked: 0
+  - name: traps
+    uniqueID: 1943635757
+    locked: 0
+  - name: key
+    uniqueID: 2890200669
     locked: 0
   - name: Player
     uniqueID: 4205382557

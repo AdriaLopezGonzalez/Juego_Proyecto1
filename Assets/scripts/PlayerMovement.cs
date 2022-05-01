@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    [SerializeField] private Transform respawn;
+
     private float speed = 3f;
 
     private Vector2 moveInput;
@@ -32,4 +34,19 @@ public class PlayerMovement : MonoBehaviour
     {
         playerRigidBody.MovePosition(playerRigidBody.position + moveInput * speed * Time.fixedDeltaTime);
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "spikes")
+        {
+            Debug.Log("player death");
+            PlayerRespawn();
+        }
+    }
+
+    private void PlayerRespawn()
+    {
+        transform.position = respawn.position;
+    }
+
 }
