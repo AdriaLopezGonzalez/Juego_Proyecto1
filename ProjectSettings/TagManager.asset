@@ -65,3 +65,6 @@ TagManager:
   - name: Walls2
     uniqueID: 940565325
     locked: 0
+  - name: messages
+    uniqueID: 3722652531
+    locked: 0
