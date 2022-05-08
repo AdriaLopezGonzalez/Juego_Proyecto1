@@ -17,6 +17,6 @@ public class cameraController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.position = Vector3.Lerp(Target.position + Offset, transform.position, Smoothing * Time.deltaTime); 
+        transform.position = Vector3.Lerp(transform.position, Target.position + Offset, Smoothing * Time.deltaTime); 
     }
 }

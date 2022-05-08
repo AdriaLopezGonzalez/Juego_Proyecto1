@@ -13,6 +13,8 @@ public class playerMovement : MonoBehaviour
 
     private Animator playerAnimator;
 
+    public float smooth = 1.2f;
+
     void Start()
     {
         playerRigidBody = GetComponent<Rigidbody2D>();
@@ -32,7 +34,7 @@ public class playerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        playerRigidBody.MovePosition(playerRigidBody.position + moveInput * speed * Time.fixedDeltaTime);
+        playerRigidBody.MovePosition(playerRigidBody.position + moveInput * speed * smooth * Time.fixedDeltaTime);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
