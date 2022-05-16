@@ -10,6 +10,7 @@ TagManager:
   - player
   - key
   - door
+  - UnderWalls
   layers:
   - Default
   - TransparentFX
@@ -56,6 +57,12 @@ TagManager:
   - name: key
     uniqueID: 2890200669
     locked: 0
+  - name: door
+    uniqueID: 3618256047
+    locked: 0
+  - name: UnderWalls
+    uniqueID: 466485083
+    locked: 0
   - name: Player
     uniqueID: 4205382557
     locked: 0
@@ -67,4 +74,7 @@ TagManager:
     locked: 0
   - name: messages
     uniqueID: 3722652531
+    locked: 0
+  - name: 
+    uniqueID: 1751386473
     locked: 0
