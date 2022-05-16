@@ -693,10 +693,10 @@ TextureImporter:
       name: Custom Edited - Bug Fables Customs - Violet Vi Final Fantasy 4 5-Style_4
       rect:
         serializedVersion: 2
-        x: 148
-        y: 113
-        width: 71
-        height: 60
+        x: 150
+        y: 134
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1223,7 +1223,7 @@ TextureImporter:
         width: 18
         height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1231,6 +1231,321 @@ TextureImporter:
       bones: []
       spriteID: e034348bc45624380800000000000000
       internalID: -8988510526094753010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bug Fables Customs - Violet Vi Final Fantasy 4 5-Style_30
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cc2b649dda15dc0800000000000000
+      internalID: -3651946674115130249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bug Fables Customs - Violet Vi Final Fantasy 4 5-Style_31
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 134
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de40b35a3cc1ade70800000000000000
+      internalID: 9140650020318151917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bug Fables Customs - Violet Vi Final Fantasy 4 5-Style_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 134
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fc6cea8e880c640800000000000000
+      internalID: 5098225311129456432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bug Fables Customs - Violet Vi Final Fantasy 4 5-Style_33
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 115
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a65b56be10839d90800000000000000
+      internalID: -7092184118781585754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bug Fables Customs - Violet Vi Final Fantasy 4 5-Style_34
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 115
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa1d9833dda3eca0800000000000000
+      internalID: -5988751956773102942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bug Fables Customs - Violet Vi Final Fantasy 4 5-Style_35
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c0e64dca2d7ab10800000000000000
+      internalID: 1992792999874923652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bug Fables Customs - Violet Vi Final Fantasy 4 5-Style_36
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3391f125065974c0800000000000000
+      internalID: -4289302590049381570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bug Fables Customs - Violet Vi Final Fantasy 4 5-Style_37
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 84
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d4e91914aceeb60800000000000000
+      internalID: 7777375989480181060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bug Fables Customs - Violet Vi Final Fantasy 4 5-Style_38
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 72
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e65e2d05561157e0800000000000000
+      internalID: -1778615823285463324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bug Fables Customs - Violet Vi Final Fantasy 4 5-Style_39
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 72
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65cd074c97ff4db0800000000000000
+      internalID: -4805350026801986194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bug Fables Customs - Violet Vi Final Fantasy 4 5-Style_40
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 84
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43017b4a8c911d60800000000000000
+      internalID: 7859234942523343691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bug Fables Customs - Violet Vi Final Fantasy 4 5-Style_41
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 86
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e3455c30cb42ed0800000000000000
+      internalID: -2439618373746409840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bug Fables Customs - Violet Vi Final Fantasy 4 5-Style_42
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 71
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a7d3b59acf8bf50800000000000000
+      internalID: 6897540633628342935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bug Fables Customs - Violet Vi Final Fantasy 4 5-Style_43
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 84
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f10715cc22f8a720800000000000000
+      internalID: 2857800237665681907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Bug Fables Customs - Violet Vi Final Fantasy 4 5-Style_44
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 69
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3031ae33c394d27f0800000000000000
+      internalID: -635771449471528189
       vertices: []
       indices: 
       edges: []
