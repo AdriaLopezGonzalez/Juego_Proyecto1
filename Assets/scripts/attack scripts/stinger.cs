@@ -6,16 +6,28 @@ public class stinger : MonoBehaviour
 {
     Rigidbody2D _rigidbody;
 
-    // Start is called before the first frame update
-   public void Init(float speed)
+    public float timer;
+
+    private void Update()
+    {
+        timer += 1.0f + Time.deltaTime;
+        if (timer >= 500.0f)
+        {
+            GameObject.Destroy(gameObject);
+        }
+    }
+    public void Init(float speed)
     {
         _rigidbody = GetComponent<Rigidbody2D>();
         _rigidbody.velocity = transform.right * speed;
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        Destroy(gameObject);
+        if (!collision.collider.CompareTag("player") && !collision.collider.CompareTag("key") && !collision.collider.CompareTag("stinger"))
+        {
+            Destroy(gameObject);
+        }
     }
 
     private void OnBecameInvisible()

@@ -4,9 +4,12 @@ using UnityEngine;
 
 public class stingersGun : weapon
 {
-    public stinger BulletPrefab;
+    public stinger stingerPrefab;
     public Transform FirePoint;
     public float speed = 5;
+
+    private float cooldownShoot = 0f;
+    private float lastShoot;
     // Start is called before the first frame update
     void Start()
     {
@@ -18,19 +21,29 @@ public class stingersGun : weapon
     {
         if (Input.GetButtonDown("Fire1"))
         {
-            Fire();
+            TryFire();
         }
     }
 
     void Fire()
     {
-        var bullet = Instantiate(BulletPrefab, FirePoint.position, FirePoint.rotation);
+        var stinger = Instantiate(stingerPrefab, FirePoint.position, FirePoint.rotation);
 
-        bullet.Init(speed);
+        stinger.Init(speed);
     }
 
     public override void TryFire()
     {
-        Fire();
+        if (CanShoot())
+        {
+            Fire();
+            cooldownShoot = 0.5f;
+            lastShoot = Time.time;
+        }
+    }
+
+    private bool CanShoot()
+    {
+        return (lastShoot + cooldownShoot) < Time.time;
     }
 }
