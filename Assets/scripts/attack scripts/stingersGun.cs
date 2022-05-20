@@ -10,6 +10,7 @@ public class stingersGun : weapon
 
     private float cooldownShoot = 0f;
     private float lastShoot;
+    public Animator playerAnimator;
     // Start is called before the first frame update
     void Start()
     {
@@ -30,6 +31,9 @@ public class stingersGun : weapon
         var stinger = Instantiate(stingerPrefab, FirePoint.position, FirePoint.rotation);
 
         stinger.Init(speed);
+
+        playerAnimator.SetTrigger("IsAttacking");
+
     }
 
     public override void TryFire()

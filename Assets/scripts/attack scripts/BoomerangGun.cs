@@ -7,6 +7,7 @@ public class BoomerangGun : weapon
     public boomerang boomerangPrefab;
     public Transform FirePoint;
     public float speed = 5;
+    public Animator playerAnimator;
 
     private float cooldownShoot = 0f;
     private float lastShoot;
@@ -27,9 +28,11 @@ public class BoomerangGun : weapon
 
     void Fire()
     {
-        var stinger = Instantiate(boomerangPrefab, FirePoint.position, FirePoint.rotation);
+        var boomerang = Instantiate(boomerangPrefab, FirePoint.position, FirePoint.rotation);
 
-        stinger.Init(speed);
+        boomerang.Init(speed);
+        // Animacion
+        playerAnimator.SetTrigger("IsAttacking");
     }
 
     public override void TryFire()
