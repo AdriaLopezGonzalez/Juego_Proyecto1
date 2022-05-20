@@ -34,7 +34,7 @@ public class boomerang : MonoBehaviour
             returning = true;
 
         }
-        if (collision.collider.CompareTag("player") && returning==true)
+        if (collision.collider.CompareTag("player") && returning == true)
         {
             Destroy(gameObject);
         }
