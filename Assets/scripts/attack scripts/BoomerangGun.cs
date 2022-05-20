@@ -37,7 +37,7 @@ public class BoomerangGun : weapon
         if (CanShoot())
         {
             Fire();
-            cooldownShoot = 0.5f;
+            cooldownShoot = 2.0f;
             lastShoot = Time.time;
         }
     }
