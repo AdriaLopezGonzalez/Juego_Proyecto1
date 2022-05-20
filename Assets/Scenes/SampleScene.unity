@@ -6556,7 +6556,7 @@ MonoBehaviour:
   stingerPrefab: {fileID: 1505976503373539670, guid: b01deb21b94f1234cbc55439146173aa,
     type: 3}
   FirePoint: {fileID: 1276443801}
-  speed: 3
+  speed: 5
   playerAnimator: {fileID: 339587872}
 --- !u!1 &339587869
 GameObject:
