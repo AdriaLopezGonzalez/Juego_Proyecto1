@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class playerMovement : MonoBehaviour
+public class playerMovementAndRespawn : MonoBehaviour
 {
     [SerializeField] private Transform respawn;
 
@@ -14,6 +14,8 @@ public class playerMovement : MonoBehaviour
     private Animator playerAnimator;
 
     public float smooth = 1.2f;
+
+    public GameObject[] lifes;
 
     void Start()
     {
@@ -39,7 +41,7 @@ public class playerMovement : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "spikes")
+        if (collision.gameObject.tag == "spikes" || collision.gameObject.tag == "enemy")
         {
             Debug.Log("player death");
             PlayerRespawn();

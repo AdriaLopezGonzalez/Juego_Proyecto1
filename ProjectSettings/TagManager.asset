@@ -10,6 +10,9 @@ TagManager:
   - player
   - key
   - door
+  - stinger
+  - boomerang
+  - enemy
   layers:
   - Default
   - TransparentFX
