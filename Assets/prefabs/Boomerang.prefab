@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 7158709612219951239}
   - component: {fileID: -8676864534181749728}
   - component: {fileID: -2943266016227649733}
+  - component: {fileID: 7269635311596991333}
   m_Layer: 0
   m_Name: Boomerang
   m_TagString: boomerang
@@ -71,8 +72,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -89584739
-  m_SortingLayer: 5
+  m_SortingLayerID: 844437983
+  m_SortingLayer: 8
   m_SortingOrder: 0
   m_Sprite: {fileID: -635771449471528189, guid: 83d027c7face2f74e86614e277d41974,
     type: 3}
@@ -170,3 +171,16 @@ PolygonCollider2D:
       - {x: -0.075, y: -0.3}
       - {x: 0.175, y: -0.3}
       - {x: 0.175, y: 0.3}
+--- !u!114 &7269635311596991333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6839769518971694496}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c16a6681f7739d64e8b9aae11470431a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Damage: 40

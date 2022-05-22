@@ -13,6 +13,7 @@ TagManager:
   - stinger
   - boomerang
   - enemy
+  - fireball
   layers:
   - Default
   - TransparentFX
@@ -70,6 +71,12 @@ TagManager:
     locked: 0
   - name: stingers
     uniqueID: 3591627257
+    locked: 0
+  - name: boomerang
+    uniqueID: 844437983
+    locked: 0
+  - name: fireball
+    uniqueID: 1597432133
     locked: 0
   - name: Walls
     uniqueID: 3473682689

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class stinger : MonoBehaviour
+public class fireball : MonoBehaviour
 {
     Rigidbody2D _rigidbody;
 
@@ -11,7 +11,7 @@ public class stinger : MonoBehaviour
     private void Update()
     {
         timer += 1.0f + Time.deltaTime;
-        if (timer >= 500.0f)
+        if (timer >= 700.0f)
         {
             GameObject.Destroy(gameObject);
         }
@@ -22,17 +22,9 @@ public class stinger : MonoBehaviour
         _rigidbody.velocity = transform.right * speed;
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (!collision.collider.CompareTag("player") && !collision.collider.CompareTag("key") && !collision.collider.CompareTag("stinger"))
-        {
-            Destroy(gameObject);
-        }
-    }
-
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "enemy")
+        if(collision.gameObject.tag != "enemy" && collision.gameObject.tag != "key" && collision.gameObject.tag != "stinger" && collision.gameObject.tag != "boomerang")
         {
             Destroy(gameObject);
         }

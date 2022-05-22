@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 1505976503373539670}
   - component: {fileID: 5393505556000808953}
   - component: {fileID: 5755424076749922354}
+  - component: {fileID: -5538532461353579018}
   m_Layer: 0
   m_Name: stinger
   m_TagString: stinger
@@ -179,3 +180,16 @@ PolygonCollider2D:
       - {x: 0.11375, y: -0.10416667}
       - {x: 0.11375, y: 0.1025}
       - {x: 0.11291667, y: 0.10416667}
+--- !u!114 &-5538532461353579018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6567156674994484180}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c16a6681f7739d64e8b9aae11470431a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Damage: 15
