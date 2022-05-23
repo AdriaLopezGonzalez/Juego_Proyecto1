@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: -6322842662657047143}
   - component: {fileID: 1758517092298356264}
   - component: {fileID: 1189738317342640691}
+  - component: {fileID: 1957607496629985512}
   m_Layer: 0
   m_Name: BigEnemy
   m_TagString: enemy
@@ -133,3 +134,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!70 &1957607496629985512
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4319383521997200591}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.005476713, y: -0.06572008}
+  m_Size: {x: 0.53115606, y: 0.7947264}
+  m_Direction: 0
