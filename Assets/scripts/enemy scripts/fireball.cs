@@ -22,9 +22,17 @@ public class fireball : MonoBehaviour
         _rigidbody.velocity = transform.right * speed;
     }
 
+    private void OnColliderEnter2D(Collider2D collision)
+    {
+        if(collision.gameObject.tag != "enemy" && collision.gameObject.tag != "player" && collision.gameObject.tag != "stinger" && collision.gameObject.tag != "boomerang")
+        {
+            Destroy(gameObject);
+        }
+    }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.gameObject.tag != "enemy" && collision.gameObject.tag != "key" && collision.gameObject.tag != "stinger" && collision.gameObject.tag != "boomerang")
+        if (collision.gameObject.tag != "enemy" && collision.gameObject.tag != "key" && collision.gameObject.tag != "spikes" && collision.gameObject.tag != "stinger" && collision.gameObject.tag != "boomerang")
         {
             Destroy(gameObject);
         }
