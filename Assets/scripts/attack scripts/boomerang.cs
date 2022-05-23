@@ -12,10 +12,16 @@ public class boomerang : MonoBehaviour
     private void Update()
     {
         timer += 1.0f + Time.deltaTime;
-        if (timer >= 1000f)
+        if (timer >= 200f)
         {
             GameObject.Destroy(gameObject);
         }
+        else if (timer >= 100f && returning==false)
+        {
+            _rigidbody.velocity = transform.right * -velocity;
+            returning = true;
+        }
+        Debug.Log(timer);
     }
     public void Init(float speed)
     {
@@ -34,7 +40,7 @@ public class boomerang : MonoBehaviour
             returning = true;
 
         }
-        if (collision.collider.CompareTag("player") && returning == true)
+        if ((collision.collider.CompareTag("player") || collision.collider.CompareTag("key")) && returning == true)
         {
             Destroy(gameObject);
         }
