@@ -24,6 +24,6 @@ public class mouseController : MonoBehaviour
         {
             playerAnimator.SetFloat("AttackDirection", 0);
         }
-        Debug.Log(mousePos.x);
+        
     }
 }

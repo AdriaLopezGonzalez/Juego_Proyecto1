@@ -12,16 +12,17 @@ public class boomerang : MonoBehaviour
     private void Update()
     {
         timer += 1.0f + Time.deltaTime;
-        if (timer >= 200f)
+        if (timer >= 60f)
         {
             GameObject.Destroy(gameObject);
         }
-        else if (timer >= 100f && returning==false)
+        else if (timer >= 25f && returning==false)
         {
             _rigidbody.velocity = transform.right * -velocity;
             returning = true;
         }
         Debug.Log(timer);
+       
     }
     public void Init(float speed)
     {
