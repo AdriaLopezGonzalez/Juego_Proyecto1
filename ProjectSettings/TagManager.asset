@@ -14,6 +14,7 @@ TagManager:
   - boomerang
   - enemy
   - fireball
+  - water
   layers:
   - Default
   - TransparentFX
@@ -23,7 +24,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - boomerang
   - 
   - 
   - 

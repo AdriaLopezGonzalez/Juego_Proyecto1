@@ -35,7 +35,7 @@ public class boomerang : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (!collision.collider.CompareTag("player") && !collision.collider.CompareTag("key") && !collision.collider.CompareTag("boomerang"))
+        if (!collision.collider.CompareTag("player") && !collision.collider.CompareTag("key") && !collision.collider.CompareTag("boomerang") && !collision.collider.CompareTag("water"))
         {
             _rigidbody.velocity = transform.right * -velocity;
             returning = true;
