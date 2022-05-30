@@ -115,6 +115,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _maxHealth: 100
+  particlePrefab: {fileID: 7651481620311608324, guid: d68c627181076744daec546abd3e5afb,
+    type: 3}
 --- !u!95 &1189738317342640691
 Animator:
   serializedVersion: 3
