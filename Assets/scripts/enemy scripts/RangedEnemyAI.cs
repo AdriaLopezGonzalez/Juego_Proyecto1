@@ -34,6 +34,9 @@ public class RangedEnemyAI : MonoBehaviour
 
     private float cooldownAttack = 2.0f;
     private float counterAttack;
+
+    public GameObject particlePrefab;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -103,6 +106,7 @@ public class RangedEnemyAI : MonoBehaviour
 
         if(counterAttack > cooldownAttack)
         {
+            var particle = Instantiate(particlePrefab, GetComponent<Transform>().position, GetComponent<Transform>().rotation);
             Fire();
         }
 

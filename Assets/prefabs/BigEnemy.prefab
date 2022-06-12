@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 1758517092298356264}
   - component: {fileID: 1189738317342640691}
   - component: {fileID: 1957607496629985512}
+  - component: {fileID: -4379029794757831139}
   m_Layer: 0
   m_Name: BigEnemy
   m_TagString: enemy
@@ -152,3 +153,24 @@ CapsuleCollider2D:
   m_Offset: {x: -0.005476713, y: -0.06572008}
   m_Size: {x: 0.53115606, y: 0.7947264}
   m_Direction: 0
+--- !u!50 &-4379029794757831139
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4319383521997200591}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4

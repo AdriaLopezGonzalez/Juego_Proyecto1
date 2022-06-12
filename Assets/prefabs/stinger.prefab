@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 5393505556000808953}
   - component: {fileID: 5755424076749922354}
   - component: {fileID: -5538532461353579018}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: stinger
   m_TagString: stinger
   m_Icon: {fileID: 0}

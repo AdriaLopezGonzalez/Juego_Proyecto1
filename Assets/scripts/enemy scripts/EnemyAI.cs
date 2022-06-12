@@ -16,7 +16,7 @@ public class EnemyAI : MonoBehaviour
     public float speed;
 
     float _currentTime;
-    Vector3 _direction;
+    Vector2 _direction;
     Transform _player;
 
     [SerializeField]
@@ -27,6 +27,8 @@ public class EnemyAI : MonoBehaviour
     private int nextStep;
 
     private SpriteRenderer spriteRenderer;
+
+    private Rigidbody2D enemyRigidBody;
     // Start is called before the first frame update
     void Start()
     {
@@ -34,6 +36,8 @@ public class EnemyAI : MonoBehaviour
         _player = GameObject.FindGameObjectWithTag("player").transform;
         spriteRenderer = GetComponent<SpriteRenderer>();
         Flip();
+
+        enemyRigidBody = GetComponent<Rigidbody2D>();
     }
 
     void InitFSM()
@@ -93,7 +97,7 @@ public class EnemyAI : MonoBehaviour
     private void UpdateAttack()
     {
         _direction = (_player.position - transform.position).normalized;
-        transform.position += _direction * Time.deltaTime * speed;
+        enemyRigidBody.MovePosition(enemyRigidBody.position + _direction * speed * Time.fixedDeltaTime);
 
         if (!IsPLayerNear())
         {

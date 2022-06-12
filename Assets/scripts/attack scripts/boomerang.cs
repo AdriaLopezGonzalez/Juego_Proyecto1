@@ -9,6 +9,7 @@ public class boomerang : MonoBehaviour
     public float timer;
     private float velocity;
 
+    public GameObject particlePrefab;
     private void Update()
     {
         timer += 1.0f + Time.deltaTime;
@@ -37,6 +38,11 @@ public class boomerang : MonoBehaviour
     {
         if (!collision.collider.CompareTag("player") && !collision.collider.CompareTag("key") && !collision.collider.CompareTag("boomerang") && !collision.collider.CompareTag("water"))
         {
+            if(!collision.collider.CompareTag("player") && !collision.collider.CompareTag("key") && !collision.collider.CompareTag("boomerang") && !collision.collider.CompareTag("enemy"))
+            {
+                var particle = Instantiate(particlePrefab, GetComponent<Transform>().position, GetComponent<Transform>().rotation);
+            }
+
             _rigidbody.velocity = transform.right * -velocity;
             returning = true;
 

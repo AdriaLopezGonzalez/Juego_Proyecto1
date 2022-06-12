@@ -118,7 +118,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37523e5fbe63a424084b98d8119ccdac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timer: 0
+  timer: 1
+  particlePrefab: {fileID: 8123777263521652915, guid: dfc7dca230c6ecd47912910f492141e1,
+    type: 3}
 --- !u!50 &-8676864534181749728
 Rigidbody2D:
   serializedVersion: 4

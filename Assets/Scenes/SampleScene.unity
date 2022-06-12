@@ -8500,6 +8500,8 @@ MonoBehaviour:
     type: 3}
   FirePoint: {fileID: 525814554}
   FireballSpeed: 2
+  particlePrefab: {fileID: 9061525963872177073, guid: 731e45818e95b824f8bb6ac2f24dae19,
+    type: 3}
 --- !u!1 &547010727
 GameObject:
   m_ObjectHideFlags: 0
@@ -9653,6 +9655,8 @@ MonoBehaviour:
     type: 3}
   FirePoint: {fileID: 708247841}
   FireballSpeed: 2
+  particlePrefab: {fileID: 9061525963872177073, guid: 731e45818e95b824f8bb6ac2f24dae19,
+    type: 3}
 --- !u!1001 &1214676799
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13600,6 +13604,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsTrigger
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4379029794757831139, guid: 77dc2dc4d99b0ca40ac20ac30aab027d,
+        type: 3}
+      propertyPath: m_BodyType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4379029794757831139, guid: 77dc2dc4d99b0ca40ac20ac30aab027d,
+        type: 3}
+      propertyPath: m_GravityScale
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4319383521997200576, guid: 77dc2dc4d99b0ca40ac20ac30aab027d,
         type: 3}
