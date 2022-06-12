@@ -90,6 +90,7 @@ public class EnemyAI : MonoBehaviour
         }
         if (IsPLayerNear())
         {
+            AudioManager.instance.PlayAudio(AudioManager.instance.bigEnemyAttack);
             brain.ChangeState(EState.Attack);
         }
     }

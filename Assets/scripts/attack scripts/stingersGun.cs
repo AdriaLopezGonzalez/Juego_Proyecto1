@@ -40,6 +40,7 @@ public class stingersGun : weapon
     {
         if (CanShoot())
         {
+            AudioManager.instance.PlayAudio(AudioManager.instance.stingerShoot);
             Fire();
             cooldownShoot = 0.5f;
             lastShoot = Time.time;

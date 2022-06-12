@@ -31,6 +31,7 @@ public class grabKey : MonoBehaviour
 
     private void KeyGrabbed()
     {
+        AudioManager.instance.PlayAudio(AudioManager.instance.keyGrabbed);
         transform.tag = "key";
     }
 }

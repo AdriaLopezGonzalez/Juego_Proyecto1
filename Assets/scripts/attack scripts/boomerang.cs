@@ -40,6 +40,7 @@ public class boomerang : MonoBehaviour
         {
             if(!collision.collider.CompareTag("player") && !collision.collider.CompareTag("key") && !collision.collider.CompareTag("boomerang") && !collision.collider.CompareTag("enemy"))
             {
+                AudioManager.instance.PlayAudio(AudioManager.instance.boomerangBounce);
                 var particle = Instantiate(particlePrefab, GetComponent<Transform>().position, GetComponent<Transform>().rotation);
             }
 

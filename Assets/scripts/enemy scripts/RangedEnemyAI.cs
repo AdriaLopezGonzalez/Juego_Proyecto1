@@ -106,6 +106,7 @@ public class RangedEnemyAI : MonoBehaviour
 
         if(counterAttack > cooldownAttack)
         {
+            AudioManager.instance.PlayAudio(AudioManager.instance.fireball);
             var particle = Instantiate(particlePrefab, GetComponent<Transform>().position, GetComponent<Transform>().rotation);
             Fire();
         }

@@ -104,6 +104,7 @@ public class playerMovementAndRespawn : MonoBehaviour
 
     private void PlayerDamaged()
     {
+        AudioManager.instance.PlayAudio(AudioManager.instance.playerDamaged);
         life--;
         CheckLifes();
     }
