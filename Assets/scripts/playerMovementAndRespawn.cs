@@ -73,7 +73,7 @@ public class playerMovementAndRespawn : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "spikes" || collision.gameObject.tag == "enemy" || collision.gameObject.tag == "fireball")
+        if (collision.gameObject.tag == "spikes" || collision.gameObject.tag == "enemy" || collision.gameObject.tag == "fireball" || collision.gameObject.tag == "iceball")
         {
             if (CanGetHit())
             {

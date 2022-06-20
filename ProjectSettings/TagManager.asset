@@ -17,6 +17,7 @@ TagManager:
   - water
   - iceball
   - particles
+  - bossDoor
   layers:
   - Default
   - TransparentFX
@@ -28,9 +29,9 @@ TagManager:
   - 
   - boomerang
   - stinger
-  - 
-  - 
-  - 
+  - iceball
+  - fireball
+  - traps
   - 
   - 
   - 
@@ -56,6 +57,9 @@ TagManager:
     locked: 0
   - name: Floor
     uniqueID: 148479041
+    locked: 0
+  - name: bridge
+    uniqueID: 263067301
     locked: 0
   - name: traps
     uniqueID: 1943635757
